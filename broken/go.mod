@@ -1,0 +1,8 @@
+module github.com/abemedia/webview-exception/broken
+
+go 1.19
+
+require (
+	github.com/abemedia/go-winsparkle v0.0.0-20200801031821-8b66f9113d7e
+	github.com/webview/webview v0.0.0-20221122140723-dbc78641c94c
+)
